@@ -51,7 +51,7 @@ function Meme() {
             <div className="form">
                 <input 
                     type="text" 
-                    placeholder="Shut up" 
+                    placeholder="One does not simply" 
                     className="form-input"  
                     name="topText"
                     value={meme.topText}
@@ -59,7 +59,7 @@ function Meme() {
                 />
                 <input 
                     type="text" 
-                    placeholder="And take my money" 
+                    placeholder="Walk into Mordor" 
                     className="form-input" 
                     name="bottomText"
                     value={meme.bottomText}
